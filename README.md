@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PC1-Software-Defect-Prediction
 
 PC1 Software Defect Prediction
@@ -35,3 +36,6 @@ Class Attribute: The ‘defects’ attribute stores the class label once the mod
 Citation:
 https://www.openml.org/d/1068
 # PC1-Software-Defect-Classification
+=======
+# SoftwareDefectClassification
+>>>>>>> c372c6db3a694c7ce57e1695f25ea2613694e34b
